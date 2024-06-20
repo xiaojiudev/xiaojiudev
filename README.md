@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaojiudev&theme=nord_bright)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaojiudev&theme=nord_bright)
