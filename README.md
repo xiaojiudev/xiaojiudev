@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaojiudev&theme=nord_bright)
+
 <!--
 **xiaojiudev/xiaojiudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
