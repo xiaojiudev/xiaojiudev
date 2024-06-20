@@ -1,7 +1,5 @@
 ## Hi there 👋
-<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiaojiudev&theme=nord_bright)
-</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xiaojiudev&theme=nord_bright)
 
