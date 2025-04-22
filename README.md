@@ -21,18 +21,6 @@ I'm **Ly Dai Phat**, a passionate Software Engineer from Vietnam with a knack fo
   B.Sc. in Medicinal Chemistry, GPA: **2.72/4.0**
 
 ---
-
-## 🛠️ Tech Stack
-- **Back-end**: Java (OOP, Spring, Spring Boot, Security, JPA)
-- **Front-end**: HTML, CSS/SCSS, JavaScript/TypeScript (React.js, Next.js)
-- **UI Frameworks**: Ant Design, Bootstrap, Tailwind CSS
-- **Databases**: MySQL, MongoDB
-- **APIs**: RESTful, gRPC
-- **DevOps & Tools**: Git, Docker, Redis, Kafka, Elasticsearch
-- **AI/ML**: Understanding of ML concepts (CNN, KNN, Bayes, Ensemble Model, etc.)
-
----
-
 ## 💼 Experience
 - **FPT Software** (Aug 2024 - Nov 2024)  
   Backend Developer: Migrated legacy mainframe systems to modern **Java** and **React.js** architectures using **Mulesoft**.
@@ -42,28 +30,19 @@ I'm **Ly Dai Phat**, a passionate Software Engineer from Vietnam with a knack fo
 ---
 
 ### 🏆 Highlight Projects
-
 **🧬 Room Management Scheduling (Thesis - 9.8/10)**  
 Developed Genetic Algorithm for automated lab scheduling  
 🔹 Tech: Spring Boot, Next.js, MySQL  
 
 **🗑️ AI Waste Classification**  
 Built ResNet50 model to classify waste types from images  
-🔹 Tech: FastAPI, TensorFlow, Flutter  
-
-**🛍️ E-commerce for Handmade Products**  
-Full-stack platform with Next.js and Spring Boot  
-🔹 Tech: Spring Security, Cloudinary, Zustand  
-
-**📚 Study Quiz Application**  
-Mobile quiz app with Firebase backend  
-🔹 Tech: Flutter, Firebase, Provider
+🔹 Tech: FastAPI, TensorFlow, Flutter
 
 ---
 
 ### ⚡ Fun Facts
 - 🏸 Passionate about badminton, basketball, and swimming
-- ✨ Content creator for motivational content on Facebook/TikTok
+- ✨ Content creator for motivational content on Facebook/[TikTok](https://www.tiktok.com/@youxiu.motivation)
 
 ---
 
