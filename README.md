@@ -22,6 +22,7 @@ I'm **Ly Dai Phat**, a passionate Software Engineer from Vietnam with a knack fo
 
 ---
 ## 💼 Experience
+- **Cantho University Software Center** (Jul 2025 - Now)
 - **FPT Software** (Aug 2024 - Nov 2024)  
   Backend Developer: Migrated legacy mainframe systems to modern **Java** and **React.js** architectures using **Mulesoft**.
 - **HAHALOLO Travel Social Network** (May 2024 - Jul 2024)  
